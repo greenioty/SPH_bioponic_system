@@ -20,7 +20,7 @@
 2. Moisten the rockwool with some water. Make sure it is moist but not soaked.
 3. Place each piece of rockwool in a seedling pot.
     
-    ![IMG_4436.jpg](pictures/single_pot_.jpeg)
+    ![IMG_4436.jpg](pictures/single_pot_.jpg)
     
 
 # **Step 3: Sow the Microgreens**
