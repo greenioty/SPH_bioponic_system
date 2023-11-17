@@ -38,12 +38,12 @@
 3. After a week under the lights  (D+10), the sprouts have grown.
 
 
-<img src="pictures/grow_01.jpeg" height="400">
+<img src="pictures/grow_01.jpeg" height="200">
 
 pouet pouet
 
 <figure>
-    <img src="pictures/grow_01.jpeg" width="300" height="200">
+    <img src="pictures/grow_01.jpeg" width="300" height="200" alt="Sprouts after 10 days">
     <figcaption>Sprouts after 10 days</figcaption>
 </figure>
 
