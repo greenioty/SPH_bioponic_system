@@ -40,11 +40,13 @@
     ![Sprouts after 10 days ](How%20to%20grow%20seeds%2091f0afc522a84755a5573a1e62d7ad13/86D1D843-C9C8-4379-A22D-295014D64A03.jpeg)
 
 <img src="pictures/grow_01.jpeg" height="400">
+
 <figure>
     <img src="pictures/grow_01.jpeg" width="300" height="200">
     <figcaption>Sprouts after 10 days</figcaption>
 </figure>
-    
+
+    <img src="pictures/grow_01.jpeg" height="400">
     Sprouts after 10 days 
     
 5. Add clay balls to each seedling pots where the sprouts have grown.
