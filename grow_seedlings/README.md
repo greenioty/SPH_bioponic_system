@@ -1,4 +1,4 @@
-# How to grow seeds?
+# How to grow seedlings?
 
 # Material
 
@@ -9,12 +9,12 @@
 - Growing box with lights
 - Water
 
-# **Step 1: Hygiene Measures**
+# Step 1: Hygiene measures
 
 1. Thoroughly wash all utensils that you will be using, as well as those that will come into contact with the microgreens, seeds, or substrate. You can use soap, vinegar, or another disinfectant.
 2. Wash and disinfect your hands thoroughly before handling the seeds, microgreens, and substrate. Alternatively, you can wear gloves.
 
-# **Step 2: Prepare the Soil**
+# Step 2: Prepare the soil
 
 1. Divide the rockwool into small balls approximately the size of a ping pong ball.
 2. Moisten the rockwool with some water. Make sure it is moist but not soaked.
@@ -23,34 +23,24 @@
 <img src="pictures/single_pot.jpg" height="400">
     
 
-# **Step 3: Sow the Microgreens**
+# Step 3: Sow the seeds
 
 1. Using a small clamp or tweezers, place one seed in each pot.
 2. Put the seedling pots in the growing box and position it in a warm place (D).
+
+<img src="pictures/single_pot.jpg" height="400">
     
     Place seedling pots in the growing syst
     
 
-# **Step 4: Growing Phase**
+# Step 4: Growing phase
 
-1. Allow the microgreens to grow for 3 days.
+1. Allow the seedlings to grow for 3 days.
 2. After 3 days, turn on the lights. (D+3)
 3. After a week under the lights  (D+10), the sprouts have grown.
 
 
-<img src="pictures/grow_01.jpeg" height="200">
-
-pouet pouet
-
-<figure>
-    <img src="pictures/grow_01.jpeg" width="300" height="200" alt="Sprouts after 10 days">
-    <figcaption>Sprouts after 10 days</figcaption>
-</figure>
-
-denis
-
-    <img src="pictures/grow_01.jpeg" height="400">
-    Sprouts after 10 days 
+<img src="pictures/grow_02.jpeg" height="400">
     
 5. Add clay balls to each seedling pots where the sprouts have grown.
     
