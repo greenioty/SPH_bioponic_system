@@ -22,7 +22,7 @@
     
     ![IMG_4436.jpg](pictures/single_pot.jpg)
 
-   <img src="pictures/single_pot.jpg" height="200">
+   <img src="pictures/single_pot.jpg" height="400">
     
 
 # **Step 3: Sow the Microgreens**
